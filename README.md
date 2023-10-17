@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a student at Telecom Paris and I enjoy listening to music
 <!--
 **colinpicolet/colinpicolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
